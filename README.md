@@ -22,6 +22,6 @@ Open a command line terminal and cd to the location where you will be placing th
 
 Clone the project directly from Github:
 
-git clone https://github.com/gcobcqwe/stopwatch.git
+git clone https://github.com/gcobcqwe/stopwatch.git and launch on http://www.codeskulptor.org/
 
-and launch on http://www.codeskulptor.org/
+or open this url http://www.codeskulptor.org/#user42_OuDX9KRtk0KUfBT.py
