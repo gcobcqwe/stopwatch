@@ -1,6 +1,6 @@
 # stopwatch
 demo
-![](http://imgur.com/a/yWoRP.png)
+![](http://imgur.com/gf2auPV.png)
 
 #Environment
 This project depends on the following modules, please make sure they're ready locally.
