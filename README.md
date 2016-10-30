@@ -1,9 +1,9 @@
 # stopwatch
 This has three functions to test your reaction.Try it with your friend. 
 <ol>
-<li>start</li>
-<li>stop</li>
-<li>reset</li>
+<li>Start</li>
+<li>Stop</li>
+<li>Reset</li>
 </ol>
 <br>
 demo:<br>
@@ -22,6 +22,6 @@ Open a command line terminal and cd to the location where you will be placing th
 
 Clone the project directly from Github:
 
-git clone 
+git clone https://github.com/gcobcqwe/stopwatch.git
 
 and launch on http://www.codeskulptor.org/
